@@ -26,6 +26,7 @@ h3:hover {
     text-decoration: none;
     cursor: pointer;
     background-color: aqua;
+    transition: 1s;
 }
 p {
     font-size: 14px;
